@@ -13,7 +13,7 @@ function inicio($param){
 	?>
 
 	<section id="contenido">
-
+		contenido
 	</section>
 	<?php
 }

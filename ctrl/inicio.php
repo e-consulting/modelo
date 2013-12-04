@@ -12,6 +12,7 @@ function inicio($param){
 	global $CFG;
 	?>
 	<section id="contenido">
+		contenido
 
 	</section>
 	<?php
